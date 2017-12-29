@@ -17,7 +17,7 @@ copyright: false
 
 该项目用QML编写，所以需要用qmake来编译，如果已经安装过QT，请略过这部分。
 
-安装前准备：
+安装前准备
 ---
 + 安装Xcode，并且同意licence agreement
 + 安装brew，（brew或者macports都可以，本文使用brew）
