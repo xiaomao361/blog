@@ -1,4 +1,4 @@
 # personal blog
 
-use hexo
-theme even
+blog use [hexo](https://hexo.io/)
+theme use [even](https://github.com/ahonn/hexo-theme-even)
