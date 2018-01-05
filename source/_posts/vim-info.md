@@ -1,8 +1,10 @@
 ---
 title: vim基础教程
-tags: vim
+tags: 
+  - vim
+  - linux
 date: 2017-12-29 09:53:34
-categories: Linux
+categories: Document
 ---
 
 

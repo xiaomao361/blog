@@ -1,8 +1,9 @@
 ---
 title: 修改linux默认的编辑器
-tags: linux
+tags: 
+  - linux
 date: 2017-12-29 12:40:34
-categories: Linux
+categories: Tips
 ---
 
 >起因是在研究在终端下的一些快捷操作的时候，发现通过`ctrl+x` `ctrl+e`可以用编辑器来编写命令，然后悲剧的发现，一般unix系统下默认的编辑器是emacs，我是vim党...所以需要修改下。

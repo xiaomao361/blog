@@ -1,8 +1,10 @@
 ---
 title: 修改docker时区及jvm时区
-tags: docker
+tags: 
+  - docker
+  - linux
 date: 2018-01-03 10:54:34
-categories: Linux
+categories: Tips
 ---
 
 
