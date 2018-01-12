@@ -4,8 +4,8 @@ tags:
   - terminal
   - linux
 date: 2017-12-29 09:53:34
-categories: Linux
-copyright: Fun
+categories: Fun
+copyright: false
 ---
 
 **效果演示**
